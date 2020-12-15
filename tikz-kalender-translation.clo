@@ -11,6 +11,14 @@
 \deftranslation[to=English]{Sat}{Sa}% Saturday
 \deftranslation[to=English]{Sun}{Su}% Sunday
 
+\deftranslation[to=brazil]{Seg}{Se}% Segunda
+\deftranslation[to=brazil]{Ter}{Te}% Terça
+\deftranslation[to=brazil]{Qua}{Qa}% Quarta
+\deftranslation[to=brazil]{Qui}{Qi}% Quinta
+\deftranslation[to=brazil]{Sex}{Se}% Sexta
+\deftranslation[to=brazil]{Sab}{Sa}% Sabado
+\deftranslation[to=brazil]{Dom}{Do}% Domingo
+
 \deftranslation[to=Polish]{Mon}{Po}% Poniedziałek
 \deftranslation[to=Polish]{Tue}{Wt}% Wtorek
 \deftranslation[to=Polish]{Wed}{\'{S}r}% Środa
